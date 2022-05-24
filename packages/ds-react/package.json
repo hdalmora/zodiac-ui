@@ -1,5 +1,5 @@
 {
-  "name": "@zodiac-ui/ds-react",
+  "name": "zodiac-ui-ds-react",
   "version": "1.0.6-alpha.0",
   "description": "React portability of Zodicac-UI Design System",
   "author": "Henrique Dal' Mora <hdalmora.dev@gmail.com>",
@@ -30,7 +30,8 @@
   "dependencies": {
     "@stitches/react": "^1.2.8",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "zodiac-ui-styles": "^1.0.6-alpha.0"
   },
   "devDependencies": {
     "@babel/core": "^7.18.0",
@@ -47,5 +48,6 @@
     "babel-loader": "^8.2.5",
     "typescript": "^4.6.3",
     "vite": "^2.9.9"
-  }
+  },
+  "gitHead": "4543c042b1dc1d885f25356465a25b338b2adb81"
 }

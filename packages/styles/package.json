@@ -1,5 +1,5 @@
 {
-  "name": "@zodiac-ui/styles",
+  "name": "zodiac-ui-styles",
   "version": "1.0.7-alpha.0",
   "description": "Design system common styles agnostic of any framework",
   "author": "Henrique Dal' Mora <hdalmora.dev@gmail.com>",
@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "@stitches/core": "^1.2.8"
-  }
+  },
+  "gitHead": "4543c042b1dc1d885f25356465a25b338b2adb81"
 }

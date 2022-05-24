@@ -12970,6 +12970,13 @@ yocto-queue@^0.1.0:
   resolved "https://registry.yarnpkg.com/yocto-queue/-/yocto-queue-0.1.0.tgz#0294eb3dee05028d31ee1a5fa2c556a6aaf10a1b"
   integrity sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q==
 
+zodiac-ui-styles@^1.0.6-alpha.0:
+  version "1.0.6-alpha.0"
+  resolved "https://registry.yarnpkg.com/zodiac-ui-styles/-/zodiac-ui-styles-1.0.6-alpha.0.tgz#84d167faf469d051f6506bc72f25eb147a29c799"
+  integrity sha512-RYs8l4jwSyXONYxhc299WplHHnrM7OJEnH7s2G437PZoJSQjVjesU4i4kX/wmqCIoARvTkr8rlXsfowS7SjilQ==
+  dependencies:
+    "@stitches/core" "^1.2.8"
+
 zwitch@^1.0.0:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/zwitch/-/zwitch-1.0.5.tgz#d11d7381ffed16b742f6af7b3f223d5cd9fe9920"
