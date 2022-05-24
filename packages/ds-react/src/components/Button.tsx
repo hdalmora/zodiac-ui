@@ -4,5 +4,5 @@ import { Button as ButtonCSS } from '../../../styles';
 const ButtonWrapper = styled('button', ButtonCSS);
 
 export const Button = () => {
-  return <ButtonWrapper>Button</ButtonWrapper>;
+  return <ButtonWrapper>Buttonn</ButtonWrapper>;
 };
