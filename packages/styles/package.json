@@ -1,6 +1,6 @@
 {
   "name": "styles",
-  "version": "1.0.3-alpha.0",
+  "version": "1.0.4-alpha.0",
   "description": "Design system common styles agnostic of any framework",
   "author": "Henrique Dal' Mora <hdalmora.dev@gmail.com>",
   "homepage": "https://github.com/hdalmora/zodiac-ui/tree/main/packages/styles#readme",
