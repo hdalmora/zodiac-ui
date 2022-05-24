@@ -1,0 +1,30 @@
+{
+  "name": "styles",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Design system common styles agnostic of any framework",
+  "author": "Henrique Dal' Mora <hdalmora.dev@gmail.com>",
+  "homepage": "https://github.com/hdalmora/zodiac-ui/tree/main/packages/styles#readme",
+  "license": "ISC",
+  "main": "src/index.ts",
+  "directories": {
+    "lib": "src",
+    "test": "__tests__"
+  },
+  "files": [
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdalmora/zodiac-ui.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/hdalmora/zodiac-ui/issues"
+  },
+  "dependencies": {
+    "@stitches/core": "^1.2.8"
+  }
+}

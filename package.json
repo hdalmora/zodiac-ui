@@ -1,6 +1,25 @@
 {
-  "name": "root",
+  "name": "zodiac-ui",
+  "description": "Design System using Monorepo, Typescript, React, Vue, Stitches, Radix-UI and Storybook.",
+  "author": "@hdalmora",
+  "version": "0.0.1",
   "private": true,
+  "homepage": "https://github.com/hdalmora/zodiac-ui#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hdalmora/zodiac-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hdalmora/zodiac-ui/issues"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "engines": {
+    "npm": "please-use-yarn",
+    "yarn": ">= 1.20",
+    "node": ">= 12.0.0"
+  },
   "devDependencies": {
     "lerna": "^4.0.0"
   }
