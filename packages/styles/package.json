@@ -1,5 +1,5 @@
 {
-  "name": "styles",
+  "name": "zodiac-ui-styles",
   "version": "1.0.5-alpha.0",
   "description": "Design system common styles agnostic of any framework",
   "author": "Henrique Dal' Mora <hdalmora.dev@gmail.com>",
